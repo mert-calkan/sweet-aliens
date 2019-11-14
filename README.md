@@ -1,5 +1,5 @@
 # sweet-aliens
-Unity oyun motoru kullanılarak geliştirilmiş 2 boyutlu oyun.
+Unity oyun motoru kullanılarak geliştirdiğim 2 boyutlu oyun.
 
 -----------------------------------------------------------------
 
